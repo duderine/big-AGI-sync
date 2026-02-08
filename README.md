@@ -385,7 +385,7 @@ When you open an issue, our custom AI triage system (powered by [Claude Code](ht
 
 ---
 
-## License
+## License:
 
 MIT License · [Third-Party Notices](src/modules/3rdparty/THIRD_PARTY_NOTICES.md)
 
